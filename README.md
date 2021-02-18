@@ -1,3 +1,3 @@
 # SteamMarket
-Steam Market by ReSide
+Steam Market by ReSide.
 Приложение для отслеживания инвестиций Steam. В планах в приложении будут графики, отдельные лоты, слежка за ценой товаров.
